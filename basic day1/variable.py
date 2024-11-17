@@ -8,4 +8,12 @@ is_single =True
 is_sleeping = False
 
 print(age+interest_rate)
-print(district)
+print("district")
+
+""" comment"""
+#comment
+
+print('kodom ali' + '' + 'kacha badam')
+text = f"kodom al {age} living in {district} . interesting with rate {interest_rate}"
+
+print(text)
