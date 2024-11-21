@@ -1,4 +1,4 @@
-Python OOP and Programming Basics
+Python OOP and Programming
 
 Welcome to the **Introduction to Python Programming** repository. This repository provides a comprehensive guide to Python programming, covering both fundamental and advanced topics, including object-oriented programming (OOP).
 
